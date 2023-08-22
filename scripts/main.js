@@ -22,7 +22,7 @@
     }    
   }
 
-  let texts = ['朱苑']
+  let texts = ['漫天星斗不及你', '朱苑', '做我女朋友', '好不好']
 
   let canvas,
     ctx,
